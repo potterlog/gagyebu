@@ -17,7 +17,7 @@
 
 1. 저장소 **Settings → Pages**에서 Source를 **GitHub Actions**로 둡니다.
 2. 코드가 올라가면 Actions 탭에서 배포가 끝날 때까지 기다립니다 (1~2분).
-3. 갤럭시의 크롬이나 삼성 인터넷에서 `https://hjpark831-source.github.io/gagyebu/` 를 엽니다.
+3. 갤럭시의 크롬이나 삼성 인터넷에서 `https://potterlog.github.io/gagyebu/` 를 엽니다.
 4. 메뉴에서 **홈 화면에 추가**를 누릅니다.
 
 ## 개발
