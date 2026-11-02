@@ -23,7 +23,7 @@ export default function Launcher({ open }) {
       <p className="greet-date">
         {now.getMonth() + 1}월 {now.getDate()}일 {WEEK[now.getDay()]}
       </p>
-      <h1 className="greet">희재의 가계부</h1>
+      <h1 className="greet">나의 가계부</h1>
       <span className="greet-rule" aria-hidden="true" />
 
       <div className="tiles">
