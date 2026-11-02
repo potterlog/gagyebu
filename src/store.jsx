@@ -360,7 +360,7 @@ export function StoreProvider({ children }) {
           if (e?.code !== 'auth/popup-closed-by-user') {
             const msg =
               e?.code === 'auth/unauthorized-domain'
-                ? 'Firebase 승인된 도메인에 hjpark831-source.github.io를 추가해 주세요.'
+                ? 'Firebase 승인된 도메인에 potterlog.github.io를 추가해 주세요.'
                 : '구글 로그인에 실패했어요. 잠시 뒤 다시 시도해 주세요.';
             setCloud((c) => ({ ...c, error: msg }));
           }
